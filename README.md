@@ -95,3 +95,7 @@ Indicates that the network was changed during page loading, such as when switchi
 # Conclusion
 
 The errors presented in this paper are common in the daily lives of users and programmers, affecting web browsing and communication between clients and servers. Understanding their causes and solutions is essential to maintaining an efficient and secure online experience. With appropriate diagnostic and correction practices, such as checking DNS, updating drivers, and adjusting network settings, it is possible to quickly resolve these problems, avoiding interruptions and improving the quality of internet access. Thus, knowledge of these errors and their resolutions becomes a valuable tool for everyone involved in the development and maintenance of web systems.
+
+# See the documentation
+- [Documentation in English and Portugueses](https://docs.google.com/document/d/1D6FEZhN65DSWT_NTexb9TQRJxiwpGnPK/edit?usp=sharing&ouid=106728222546071933162&rtpof=true&sd=true).
+
